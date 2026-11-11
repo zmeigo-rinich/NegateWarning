@@ -1,0 +1,8 @@
+## Title: NegateWarning
+## Version: 1.2
+## Author: Zmeigo Rinich
+## Description: Persistent on-screen warning while an enemy Negate Magic / Suppression Field / Absorption Field effect is active on the player. Cat picture + red text, transparent background.
+## SavedVariables: NegateWarningSavedVariables
+## DependsOn: LibAddonMenu-2.0
+
+NegateWarning.lua
